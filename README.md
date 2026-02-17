@@ -16,7 +16,7 @@ git clone https://github.com/adeel26in/gat.git
 
 cd gat/src
 
-go build -o gat
+CGO_ENABLED=0 go build -trimpath -ldflags="-s -w -buildid="
 
 sudo mv gat /usr/bin
 
