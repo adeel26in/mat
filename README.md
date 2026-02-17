@@ -1,7 +1,8 @@
 gat
+
 Linux cat command but multicoloured 🐱🌈
 
-Usage: check gat help
+Usage: Check gat help
 
 Installation instructions:
 
