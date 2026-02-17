@@ -5,7 +5,7 @@ Usage: check gat help
 
 Installation instructions:
 
-Download the appropriate binaries for your system and then do this (Open the terminal): cd Downloads/ && mv gat /usr/bin
+Download the appropriate binaries for your system and then do this (Open the terminal): cd Downloads/ && mv gat_ gat && mv gat /usr/bin # Change with the binary name
 
 Compiling from source:
 
