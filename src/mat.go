@@ -14,7 +14,7 @@ func main() {
 	switch os.Args[1] {
 	case "help", "--help", "-h":
 		{
-			fmt.Println("gat is a replacement of the command cat but with syntax highlighting. Use like: mat ~/.bashrc")
+			fmt.Println("mat is a replacement of the command cat but with syntax highlighting. Use like: mat ~/.bashrc")
 			return
 		}
 	default:
