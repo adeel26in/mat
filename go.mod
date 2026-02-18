@@ -1,4 +1,4 @@
-module github.com/adeel26in/gat
+module github.com/adeel26in/mat
 
 go 1.25.0
 
